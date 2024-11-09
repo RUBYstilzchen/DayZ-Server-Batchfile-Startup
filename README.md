@@ -1,0 +1,1 @@
+Place this file in your DayZ Server folder, edit it to suit your needs, and use it as a tool to start the server.
